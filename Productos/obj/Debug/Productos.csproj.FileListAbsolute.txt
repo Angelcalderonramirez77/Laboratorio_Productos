@@ -1,0 +1,7 @@
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\PRACTICA\Productos\Productos\bin\Debug\Productos.exe.config
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\PRACTICA\Productos\Productos\bin\Debug\Productos.exe
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\PRACTICA\Productos\Productos\bin\Debug\Productos.pdb
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\PRACTICA\Productos\Productos\obj\Debug\Productos.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\PRACTICA\Productos\Productos\obj\Debug\Productos.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\PRACTICA\Productos\Productos\obj\Debug\Productos.exe
+C:\Users\angel\Desktop\Curso Desarrollo de aplicaciones\PRACTICA\Productos\Productos\obj\Debug\Productos.pdb
